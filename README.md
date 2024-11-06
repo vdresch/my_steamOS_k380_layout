@@ -6,6 +6,6 @@ The file is read only and locked by Steam OS so you can't change it easly. To fi
 
 `sudo steamos-readonly disable`
 
-`sudo chmod -R 777 /usr/share/X11/xkb/symbols/us`
+`sudo chmod -R 777 /usr/share/X11/xkb/symbols`
 
 `sudo steamos-readonly enable`
